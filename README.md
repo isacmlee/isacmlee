@@ -1,4 +1,6 @@
 [![Welcome!](https://github.com/isacmlee/isacmlee/blob/master/images/banner.jpg)](https://github.com/isacmlee)
+
+### I am a 4th year data science major at UCSD!
 <!--
 **isacmlee/isacmlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
