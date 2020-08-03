@@ -1,4 +1,4 @@
-![Welcome!](https://github.com/isacmlee/isacmlee/blob/master/images/banner.jpg)[https://github.com/isacmlee]
+[![Welcome!](https://github.com/isacmlee/isacmlee/blob/master/images/banner.jpg)](https://github.com/isacmlee)
 <!--
 **isacmlee/isacmlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
