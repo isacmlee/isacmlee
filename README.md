@@ -1,4 +1,4 @@
-### Hi, my name is Isac! I am a rising 4th year, data science major at UC San Diego. 
+### ![Welcome!](banner.png) 
 
 <!--
 **isacmlee/isacmlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
