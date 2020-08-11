@@ -1,4 +1,4 @@
-[![Welcome!](https://github.com/isacmlee/isacmlee/blob/master/images/banner.jpg)](https://github.com/isacmlee)
+[![Welcome!](https://github.com/isacmlee/isacmlee/blob/master/images/banner.jpeg)](https://github.com/isacmlee)
 # Hi, I'm Isac.🙋🏻‍♂️
 I am a 3rd year data science major @ UCSD currently focusing on improving my skills as a data scientist (learning SQL, doing projects, etc.). My favorite recent project is a song recommender model that I productionized at http://www.whatspopping.xyz/. Please check it out if you're curious! 
 
