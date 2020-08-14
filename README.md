@@ -11,7 +11,7 @@ Working On: What's Popping (http://www.whatspopping.xyz/)
 ## Projects 
 • [What's Popping?](http://www.whatspopping.xyz/) </br>
 • [Spotify Listening History Analysis and Recommendation Model](https://github.com/isacmlee/song-recommender) </br>
-• [Ideal NBA Player Stats Exploration](https://github.com/isacmlee/sports-analytics/tree/master/player-analysis-for-scouts) </br>
+• [Exploring the Ideal NBA Player - Analyzing over 4000 NBA players from 1950 - 2018](https://github.com/isacmlee/sports-analytics/tree/master/exploring-ideal-player) </br>
 
 ## Find Me @
 [__Linkedin__](https://www.linkedin.com/in/isacmlee/) • [__Email__](mailto:isacmlee@gmail.com)
