@@ -8,9 +8,9 @@ Please check it out if you're curious!
 In my free time, I enjoy discovering new music, playing/watching soccer (Liverpool fan since 2012), learning about the universe (shoutout to Carl Sagan, Brian Greene, and Richard Feynman), and reading (currently reading: Billions and Billions by Carl Sagan). 
 
 ## Projects 
-• [What's Popping?](http://www.whatspopping.xyz/)
-• [Spotify Listening History Analysis and Recommendation Model](https://github.com/isacmlee/song-recommender)
-• [Ideal NBA Player Stats Exploration](https://github.com/isacmlee/sports-analytics/tree/master/player-analysis-for-scouts)
+• [What's Popping?](http://www.whatspopping.xyz/) </br>
+• [Spotify Listening History Analysis and Recommendation Model](https://github.com/isacmlee/song-recommender) </br>
+• [Ideal NBA Player Stats Exploration](https://github.com/isacmlee/sports-analytics/tree/master/player-analysis-for-scouts) </br>
 
 ## Find Me @
 [__Linkedin__](https://www.linkedin.com/in/isacmlee/) • [__Email__](mailto:isacmlee@gmail.com)
