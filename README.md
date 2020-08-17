@@ -5,7 +5,7 @@ I am a 3rd year data science major @ UCSD currently focusing on improving my ski
 
 ## Current Focus
 Working On: What's Popping (http://www.whatspopping.xyz/)
-- Learning HTML, CSS, JS, Celery, Flask, Ajax
+- Using HTML, CSS, JS, Celery, Flask, Ajax
 - Currently working on UI
 
 ## Projects 
