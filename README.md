@@ -1,7 +1,7 @@
 [![Welcome!](https://github.com/isacmlee/isacmlee/blob/master/images/edited_banner.jpg)](https://github.com/isacmlee)
 # Hi, I'm Isac.🙋🏻‍♂️
 ## About 
-I am a 4rd year data science major @ UCSD currently focusing on improving my skills as a data scientist (learning SQL, doing projects, etc.). In my free time, I enjoy discovering new music, playing/watching soccer, learning about the universe (shoutout to Carl Sagan, Brian Greene, and Richard Feynman), and reading.
+I am a 4th year data science major @ UCSD currently focusing on improving my skills as a data scientist (learning SQL, doing projects, etc.). In my free time, I enjoy discovering new music, playing/watching soccer, learning about the universe (shoutout to Carl Sagan, Brian Greene, and Richard Feynman), and reading.
 
 ## Projects 
 • [What's Popping?](http://www.whatspopping.xyz/) | Web App </br>
