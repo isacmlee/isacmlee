@@ -6,4 +6,4 @@
 I am a data science major at UC San Diego. In my free time, I enjoy discovering new music, playing/watching soccer, and learning about the universe (shoutout to Carl Sagan, Brian Greene, and Richard Feynman).
 ### Contact Me
  * [__Email__](mailto:isacmlee@gmail.com) 
- * [__Linkedin__](https://www.linkedin.com/in/isacmlee/) 
+ * [__LinkedIn__](https://www.linkedin.com/in/isacmlee/) 
