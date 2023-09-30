@@ -1,5 +1,3 @@
-<h3 align="center">Hi, welcome to my GitHub.</h1>
-
 <p align="center">
   <img src="https://img.shields.io/github/stars/isacmlee?style=social" alt="GitHub Stars" />
   <img src="https://komarev.com/ghpvc/?username=isacmlee" alt="Profile Views" />
