@@ -1,4 +1,4 @@
 # Hi, I'm Isac.
-<img src="https://img.shields.io/github/stars/isacmlee?style=social" alt="GitHub Stars"/> 
+<img src="https://github-readme-stats-five-lyart.vercel.app/api?username=isacmlee&show_icons=true" alt="isacmlee" />
 <br>
 
